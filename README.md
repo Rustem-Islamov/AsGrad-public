@@ -8,4 +8,4 @@ This repo contains a code of the paper: Rustem Islamov, Mher Safaryan, Dan Alist
   author =       {Rustem Islamov and Mher Safaryan and Dan Alistarh},
   booktitle = 	 {Proceedings of the 27th International Conference on Artificial Intelligence and Statistics},
   year = 	 {2024}
-}'''
+}
